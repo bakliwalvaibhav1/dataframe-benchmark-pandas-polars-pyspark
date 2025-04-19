@@ -51,8 +51,6 @@ python benchmarks/load_csv_benchmark.py
 
 5. Check results/ folder for runtime logs
 
-> Results are not committed to GitHub. Only code is versioned.
-
 ---
 
 ## Folder Structure
