@@ -59,6 +59,4 @@ python benchmarks/load_csv_benchmark.py
 - utils/ → data generators, helpers
 - data/ → auto-generated CSVs (gitignored)
 - results/ → output of benchmarks (gitignored)
-- notebooks/ → optional explorations
-- charts/ → future visualizations
 - README.md → this file
