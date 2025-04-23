@@ -37,6 +37,11 @@ More benchmarks planned: column subset read, null handling, string operations, w
 
 1. Clone the repository
 2. Create a virtual environment and install dependencies
+
+```bash
+python -m venv venv
+```
+
 3. Generate datasets using:
 
 ```bash
