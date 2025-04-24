@@ -41,6 +41,9 @@ More benchmarks planned: column subset read, null handling, string operations, w
 ```bash
 python -m venv venv
 ```
+```bash
+pip install -r requirements.txt
+```
 
 3. Generate datasets using:
 
