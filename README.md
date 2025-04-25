@@ -36,6 +36,11 @@ More benchmarks planned: column subset read, null handling, string operations, w
 ## How to Run Benchmarks
 
 1. Clone the repository
+
+```bash
+git clone https://github.com/bakliwalvaibhav1/dataframe-benchmark-pandas-polars-pyspark.git
+```
+
 2. Create a virtual environment and install dependencies
 
 ```bash
